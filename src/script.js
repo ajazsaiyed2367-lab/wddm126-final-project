@@ -1,3 +1,4 @@
+// Feature branch: About section enhancement complete
 function greet() {
   console.log("Hello from WDDM126 Final Project!");
 }
