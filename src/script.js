@@ -1,5 +1,5 @@
 function greet() {
-  console.log(undeclaredVar);
+  console.log("Hello from WDDM126 Final Project!");
 }
 greet();
 
